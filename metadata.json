@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Summarizer",
+  "description": "AI-powered research paper summarizer with PDF/text ingestion, multi-level summarization, key findings extraction, citation generator, mind map, interactive Q&A, and export to Streamlit/Markdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
